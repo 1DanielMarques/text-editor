@@ -76,7 +76,7 @@ const LargeButton = styled.button`
     min-width: 120px;
 
     p {
-        font-size: 14px;
+        font-size: 13px;
         margin-right: 8px;
     }
 `
